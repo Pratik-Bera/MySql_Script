@@ -1,0 +1,1 @@
+DROP DATABASE college;		/* that delete whole database from DBMS*/
